@@ -1,0 +1,1 @@
+# my-react-typescript-package
